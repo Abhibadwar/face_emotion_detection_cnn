@@ -1,4 +1,4 @@
-# face_emotion_detection_cnn
+# Face Emotion Detection CNN
 Here is a **fresh, modern, and more visually appealing** version of your README file for the Face Emotion Detection project. It focuses on **clarity**, **design structure**, and **developer appeal**, with polished language, improved formatting, and icons for engagement.
 
 ---
