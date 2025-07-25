@@ -17,8 +17,8 @@ This project demonstrates a custom-built Convolutional Neural Network (CNN) that
 
 Trained on grayscale facial images, the model achieves:
 
-* ✅ **\~70% Validation Accuracy**
-* ✅ **\~67% Training Accuracy**
+* ✅ **\~64% Validation Accuracy**
+* ✅ **\~65% Training Accuracy**
 
 The final model is deployed via a **Flask-based web application** for easy and interactive use.
 
