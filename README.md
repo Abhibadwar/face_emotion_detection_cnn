@@ -120,26 +120,20 @@ Emotion-Detection/
 
 ## 🛠️ How to Run Locally
 
-1. ✅ Clone this repo:
 
-   ```bash
-   git clone https://github.com/your-username/Emotion-Detection.git
-   cd Emotion-Detection
-   ```
-
-2. 🔧 Install dependencies:
+1. 🔧 Install dependencies:
 
    ```bash
    pip install streamlit tensorflow numpy opencv-python pillow
    ```
 
-3. 🚀 Launch the web app:
+2. 🚀 Launch the web app:
 
    ```bash
    python main.py
    ```
 
-**Emotion Detection
+# Emotion Detection
 
 https://github.com/user-attachments/assets/c205c3b6-3ba2-4572-9915-51caec6c5dfa
 
